@@ -1,6 +1,6 @@
 # Project 7:
 
-[Live link](https://lively-souffle-59ba3f.netlify.app)
+[Live link](https://inquisitive-bonbon-7251f0.netlify.app)
 
 ## Name:Vaishnavi Jaju
 
